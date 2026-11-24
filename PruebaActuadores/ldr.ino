@@ -1,3 +1,5 @@
+//PERRUCCI ALBERTONI, KAPLAN AGOSTI, SANGUINETTI WALSH
+
 #define LDR 35
 
 void setup() {
