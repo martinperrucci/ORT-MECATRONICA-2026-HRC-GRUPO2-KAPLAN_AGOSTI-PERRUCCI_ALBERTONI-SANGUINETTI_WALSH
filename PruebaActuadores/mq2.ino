@@ -1,4 +1,4 @@
-
+//KAPLAN AGOSTI, SANGUINETTI WALSH, PERRUCCI ALBERTONI
 #define MQ2 34
 
 void setup() {
