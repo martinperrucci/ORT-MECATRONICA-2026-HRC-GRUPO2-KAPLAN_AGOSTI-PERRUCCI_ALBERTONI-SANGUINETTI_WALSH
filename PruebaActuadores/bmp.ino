@@ -1,4 +1,4 @@
-
+//KAPLAN AGOSTI, PERRUCCI ALBERTONI, SANGUINETTI WALSH
 #include <Wire.h>
 #include <Adafruit_BMP280.h>
 
